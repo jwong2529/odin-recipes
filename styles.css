@@ -1,0 +1,21 @@
+
+.home {
+    background-color: rgb(70, 135, 227, 0.5);
+}
+
+.pages {
+    background-color: rgb(228, 228, 142, 0.5);
+}
+
+.heading {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.mac-pic {
+    height: 300px;
+    width: auto;
+}
+
